@@ -1,4 +1,13 @@
-### Hi there 👋
+<h1 align="center">Hi there, I'm Tyler 👋 </h1>
+
+- 🏫 I'm currently studying Computer Science and Engineering
+- 🔭 I enjoy working with Python and JavaScript
+- 🌱 I’m currently learning web development
+</br>
+
+<img alt="stats" src="https://github-readme-stats.vercel.app/api?username=tylerBrittain42&show_icons=true&theme=radical" />
+<img alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tylerBrittain42&layout=compact" />
+
 
 <!--
 **tylerBrittain42/tylerBrittain42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
