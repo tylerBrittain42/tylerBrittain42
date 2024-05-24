@@ -1,8 +1,4 @@
 <h1 align="center">Hi there, I'm Tyler! 👋 </h1>
-
-- 🏫 I'm currently studying Computer Science and Engineering.
-- 🔭 I enjoy working with Python and JavaScript.
-- 🌱 I’m currently learning web development.
 </br>
 
 <img alt="stats" src="https://github-readme-stats.vercel.app/api?username=tylerBrittain42&show_icons=true&theme=radical&hide=issues,contribs,stars&theme=default" />
