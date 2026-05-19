@@ -1,8 +1,8 @@
 <h1 align="center">Hi there, I'm Tyler! 👋 </h1>
 </br>
 
-<img alt="stats" src="https://github-readme-stats.vercel.app/api?username=tylerBrittain42&disable_animations=true" />
-<img alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tylerBrittain42&layout=compact&count_private=true&hide=ejs,pug,HTML,CSS,MakeFile" />
+<img alt="stats" src="https://github-readme-stats.vercel.app/api?username=tylerBrittain42&show_icons=true&disable_animations=true" />
+<img alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tylerBrittain42&layout=compact&count_private=true&langs_count=8&hide=ejs,pug,html,css,makefile" />
 
 <!--
 **tylerBrittain42/tylerBrittain42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
